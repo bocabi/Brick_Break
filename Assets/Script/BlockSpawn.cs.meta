@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a853dbe3ea7639d43840852e31c0006c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SZ: {instanceID: 0}
+  - Cam: {instanceID: 0}
+  - NomalBlock: {fileID: 767029298714071337, guid: 8d7cfaa5c6fb9d041b2a5e1601ef3c30, type: 3}
+  - GreenBlock: {instanceID: 0}
+  - PinkBlock: {instanceID: 0}
+  - BlueBlock: {instanceID: 0}
+  - obj: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
